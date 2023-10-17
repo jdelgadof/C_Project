@@ -1,8 +1,9 @@
 Day,Time,Course,Room
-Monday,9:00,Probability and Statistics,KME561
+MonDay,9:00,Probability and Statistics,KME561
 Tuesday,14:00,Finnish 3,MMA222
 Wednesday,9:00,Probability and Statistics,KME661
 Monday,13:00,Embedded Systems Programming,KME662
 Thursday,13:00,Embedded Systems Programming,KME662
 Tuesday,9:00,Linux Servers and Databases,ONLINE
 Wednesday,12:30,Linux Servers and Databases,KMC557
+Tuesday,19:00,Linux Servers 2,ONLINE
